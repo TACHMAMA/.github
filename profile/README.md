@@ -43,7 +43,7 @@ on cool ideas with little to no gain or moderate gain. All in all we could try a
 some of our ideas could be something useful. We could definitly benefit from a super organized way of doing all of this and definitly benefit from more help. Anyway, that is all for now, I am definity rambling here but I just wanted to get this idea out there and on paper so I have just been typing everything that has come to my head. If we want to go this route we definitly should set up everything together so that we are both on the same page. Also feel free to move this file, I didnt know where to put it.
 
 ## Organization/Repo/Folder Structure
-![Alt text](./Images/Structure.png?raw=true "Title")
+![Alt text](./Images/Structure.png "Title")
 
 ## Github Org/Holding company name ideas
 #### Chayco LLC. - mix of Chandler and May with an added CO at the end to make it sound less gay
